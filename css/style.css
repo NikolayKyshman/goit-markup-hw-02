@@ -1,3 +1,22 @@
 body {
+  font-family: "Open Sans", sans-serif;
   color: tomato;
 }
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+footer {
+  background-color: #2f303a;
+}
+
+/* ----------HEADER---------- */
+/* -----------HERO----------- */
+/* -----------ABOUT---------- */
+/* -----------BASIC---------- */
+/* -----------TEAM---------- */
