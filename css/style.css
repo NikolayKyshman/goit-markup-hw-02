@@ -1,5 +1,6 @@
 body {
   font-family: "roboto", sans-serif;
+  background-color: background: #E5E5E5;;
 }
 
 .list {
@@ -79,6 +80,8 @@ footer {
 }
 
 .hero-btn {
+  cursor: pointer;
+  font-family: inherit;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -191,6 +194,35 @@ footer {
   color: rgba(255, 255, 255, 0.6);
 }
 
-/* 2 портфолио  1. header. 
-                2. button
-                3. hero*/ ;
+.btn {
+  font-family: inherit;
+  background-color:#F5F4FA;
+}
+
+.button {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121; 
+  }
+
+.hero-title-portfolio {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2.0;
+  letter-spacing: 0.06em;
+  color: #212121;
+  }
+
+.hero-exemp-title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+  color: #757575;
+  }
