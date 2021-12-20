@@ -18,7 +18,7 @@ footer {
 /* --------------------------HEADER----------------------------- */
 
 .header-logo {
-  font-family: Raleway;
+  font-family: "Raleway" ;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
@@ -27,6 +27,13 @@ footer {
   color: #2196f3;
 }
 
+.logo-studio-b {
+  color: #212121;
+}
+
+.logo-studio-w {
+  color: #ffffff;
+}
 
 .header-link {
   font-style: normal;
@@ -167,7 +174,7 @@ footer {
 /* -----------------------------footer-------------------------- */
 
 .footer-logo {
-  font-family: Raleway;
+  font-family: "Raleway";
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
@@ -176,7 +183,7 @@ footer {
   color: #2196f3;
 }
 
-.footar-location {
+.footer-location {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -209,6 +216,13 @@ footer {
   letter-spacing: 0.03em;
   color: #212121; 
   }
+
+.btn:hover, 
+.btn:focus,
+.btn:active {
+  background-color:#2196F3;
+  color: #ffffff;
+}
 
 .hero-title-portfolio {
   font-style: normal;
