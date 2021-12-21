@@ -1,6 +1,6 @@
 body {
   font-family: "roboto", sans-serif;
-  background-color: background: #E5E5E5;;
+  background-color: #e5e5e5;
 }
 
 .list {
@@ -18,7 +18,7 @@ footer {
 /* --------------------------HEADER----------------------------- */
 
 .header-logo {
-  font-family: "Raleway" ;
+  font-family: "Raleway";
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
@@ -53,7 +53,7 @@ footer {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: #757575;
 }
@@ -76,7 +76,7 @@ footer {
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 1, 36;
+  line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -112,7 +112,7 @@ footer {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
@@ -122,7 +122,7 @@ footer {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 1, 71;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -133,7 +133,7 @@ footer {
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-  line-height: 1, 17;
+  line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -145,7 +145,7 @@ footer {
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-  line-height: 1, 67;
+  line-height: 1.67;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -155,7 +155,7 @@ footer {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 19;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -165,7 +165,7 @@ footer {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 1, 19;
+  line-height: 1.19;
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
@@ -178,7 +178,7 @@ footer {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 1, 19;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: #2196f3;
 }
@@ -187,7 +187,7 @@ footer {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 1, 71;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
@@ -197,14 +197,14 @@ footer {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 1, 71;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
 
 .btn {
   font-family: inherit;
-  background-color:#F5F4FA;
+  background-color: #f5f4fa;
 }
 
 .button {
@@ -214,13 +214,13 @@ footer {
   line-height: 1.62;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #212121; 
-  }
+  color: #212121;
+}
 
-.btn:hover, 
+.btn:hover,
 .btn:focus,
 .btn:active {
-  background-color:#2196F3;
+  background-color: #2196f3;
   color: #ffffff;
 }
 
@@ -228,10 +228,10 @@ footer {
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
-  line-height: 2.0;
+  line-height: 2;
   letter-spacing: 0.06em;
   color: #212121;
-  }
+}
 
 .hero-exemp-title {
   font-style: normal;
@@ -240,4 +240,4 @@ footer {
   line-height: 1.87;
   letter-spacing: 0.03em;
   color: #757575;
-  }
+}
